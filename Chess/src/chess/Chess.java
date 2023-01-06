@@ -2,6 +2,11 @@ package chess;
 import java.util.*;
 
 //author Benjamin Burnham
+//This project produces a chessboard.
+//To select a piece, input the coordinates of that piece in the command line.
+//To move that selected piece, type in the coordinates of the desired location.
+//There is no enforcement of rules, or AI opponent. 
+
 class Board{
     public static Object[][] board = new Object[8][8];
     Board(){

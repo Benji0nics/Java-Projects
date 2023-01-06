@@ -3,7 +3,8 @@ import java.util.*;
 
 //author Benjamin Burnham
 //This project produces a chessboard.
-//To select a piece, input the coordinates of that piece in the command line.
+//To select a piece, input the coordinates of that piece in the command line, starting with the horizontal coordinate.
+//For example, to select the LEFT BLACK ROOK, input 07 when prompted.
 //To move that selected piece, type in the coordinates of the desired location.
 //There is no enforcement of rules, or AI opponent. 
 

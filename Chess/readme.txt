@@ -1,6 +1,5 @@
 ###Chess###
-This project is a very simple chess board. It does not have an AI opponent, and it does not verify that moves made are legal, as this is just a portfolio
-piece to showcase my skills in a concise, easy to read, single page project, and those features would bloat the code too much. 
+This project is a very simple chess board. It does not have an AI opponent, and it does not verify that moves made are legal, as this is just a concise little portfolio piece.
 
    ---0-------1-------2-------3-------4-------5-------6-------7----
 7- |#Rook#||#Knyt#||#Bshp#||#Qeen#||#King#||#Bshp#||#Knyt#||#Rook#| -7
@@ -15,7 +14,7 @@ piece to showcase my skills in a concise, easy to read, single page project, and
 
 ###How to Play!###
   -When you are prompted to select a piece, input into the command line the coordinates of the desired piece, starting with the horizontal coordinate. 
-    -For example, if wanted to move the left BLACK #ROOK#, you would input 07 to select it. 
+    -For example, if you wanted to move the left BLACK #ROOK#, you would input 07 to select it. 
   -When prompted for the location to move the selected piece, input the desired coordinates. 
   -Black pieces are denoted with '#' symbols on both sides of their name. White pieces aren't!
   -Pawns who reach the opposite side of the board are promoted to queens automatically.
